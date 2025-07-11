@@ -16,3 +16,11 @@ body {
   color: #6366f1;
   margin-bottom: 10px;
 }
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 70px;
+    background: url('assets/Hero-bg.png') no-repeat center/cover;
+    position: relative;
+}
